@@ -15,6 +15,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    font-weight: bolder;
 }
 .caixa-principal{
     background-color: var(--cor-principal);
@@ -26,6 +27,7 @@ body{
 
 .caixa-resultado{
     display: none;
+    
 }
 
 .mostrar-caixa-resultado{
