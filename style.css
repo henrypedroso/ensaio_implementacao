@@ -19,10 +19,10 @@ body{
 }
 .caixa-principal{
     background-color: var(--cor-principal);
-    width: 90%;
+    width: 100%;
     max-width: 600px;
     text-align: center;
-    padding: 20px;
+    padding: 30px;
 }
 
 .caixa-resultado{
