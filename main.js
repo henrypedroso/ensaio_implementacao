@@ -1,6 +1,6 @@
 const caixaPrincipal = document.querySelector(".caixa-principal");
 const caixaPerguntas = document.querySelector(".caixa-perguntas");
-/*const caixaAlternativas = document.querySelector(".caixa-alternativas");*/
+const caixaAlternativas = document.querySelector(".caixa-alternativas");
 const caixaResultado = document.querySelector(".resultado-1");
 const caixaResultado2 = document.querySelector(".resultado-2");
 const textoResultado = document.querySelector(".textoResultado");
