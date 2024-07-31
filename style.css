@@ -46,9 +46,9 @@ button{
     background-color: var(--cor-secundaria);
     color: var(--cor-texto);
     border: none;
-    border-radius: 15px;
+    border-radius: 20px;
     padding: 15px;
-    transition: background-color 0.3s;
+    transition: background-color 0.5s;
 }
 
 button:hover{
