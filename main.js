@@ -21,10 +21,4 @@ botao1.addEventListener("click", function(){
 botao2.addEventListener("click", function(){
     console.dir(caixaResultado); /*Mostra o elemento html em formato de objeto*/
     caixaResultado.classList.add("mostrar-caixa-resultado");
-    
 })
-
-
-
-
-
